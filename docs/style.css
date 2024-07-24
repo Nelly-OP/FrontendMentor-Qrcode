@@ -23,7 +23,7 @@ main{
 }
 img{                          
     margin-top: 20px;
-    height: 270px;
+    height: 285px;
     width: 280px;
     border-radius: 1rem;   
 }
@@ -40,7 +40,7 @@ p{
 .attribution{
     font-size: 11px;
     text-align: center; 
-    margin-top: 12px;
+    margin-top: 20px;
 }
 .attribution a{
      color: hsl(228, 45%, 44%);
